@@ -44,7 +44,7 @@
 ## Features
 
 - Dark Mode
-- Currency Selection with Intl API [https://codepen.io/maciekt07/pen/zYVdPLy]
+- Currency Selection with Intl API 
 - Profile Picture Upload
 - JWT Authentication
 
@@ -55,7 +55,7 @@
 First, clone the project repository from GitHub.
 
 ```bash
-git clone https://github.com/maciekt07/ExpenseTracker.git
+https://github.com/mohit8383/RBAC-Blog.git
 cd ExpenseTracker
 ```
 
