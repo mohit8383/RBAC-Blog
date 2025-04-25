@@ -96,6 +96,4 @@ The client will start running on port 5173.
 
 ## Credits
 
-Made with ❤️ by [maciekt07](https://github.com/maciekt07).
-
-Inspired by [Traversy Media Course](https://youtu.be/-0exw-9YJBo?si=Sb0nOUDenxp5Ez3X).
+Made with ❤️ by [Mohit](https://github.com/mohit8383)
